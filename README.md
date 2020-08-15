@@ -1,4 +1,4 @@
-# Shattered Pixel Dungeon
+# Fanagerie
 
 A tile based puzzle game of saving and outmanouvering cute fantasy monsters, by Jack.
 
